@@ -73,7 +73,7 @@
     "rimraf": "^3.0.2",
     "stylus": "^0.54.7",
     "terser-webpack-plugin": "^2.3.5",
-    "three": "^0.114.0",
+    "three": "^0.125.0",
     "typedoc": "^0.17.0",
     "typescript": "^3.8.3",
     "uglifyjs-webpack-plugin": "^2.2.0",
